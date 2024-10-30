@@ -14,9 +14,9 @@
             "hash": "7c35aa534300ac02dec0821e2d4c33ba5445bc9449ed642384db956998582c04"
         }
     },
-    "bin": "mise.exe",
+    "bin": "mise\\bin\\mise.exe",
     "checkver": {
-        "github": "https://github.com/rsteube/carapace-bin"
+        "github": "https://github.com/jdx/mise"
     },
     "autoupdate": {
         "architecture": {
