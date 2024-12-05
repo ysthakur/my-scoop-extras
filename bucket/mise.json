@@ -1,17 +1,17 @@
 {
-    "version": "2024.11.37",
+    "version": "2024.12.0",
     "description": "dev tools, env vars, task runner",
     "homepage": "https://mise.jdx.dev/",
     "license": "MIT",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jdx/mise/releases/download/v2024.11.37/mise-v2024.11.37-windows-x64.zip",
-            "hash": "d3797000017e53e73668e508ce4d342cc03cd1043d5139b9fd7977e795e0dff4"
+            "url": "https://github.com/jdx/mise/releases/download/v2024.12.0/mise-v2024.12.0-windows-x64.zip",
+            "hash": "3215f7b1b9f31db5130248cf390ec9842883a66c6519bebdc05dbce845196232"
         },
         "arm64": {
-            "url": "https://github.com/jdx/mise/releases/download/v2024.11.37/mise-v2024.11.37-windows-arm64.zip",
-            "hash": "54f0b72c432cab546332cc760b5cba65daee5e308eecb5ee41b9ddd1fdbf5f68"
+            "url": "https://github.com/jdx/mise/releases/download/v2024.12.0/mise-v2024.12.0-windows-arm64.zip",
+            "hash": "94f52ef7e3e1ba4af68e2dee52d01adb5ada69415701ad0fc148139cff33c739"
         }
     },
     "bin": "mise\\bin\\mise.exe",
